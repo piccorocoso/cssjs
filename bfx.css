@@ -50,9 +50,8 @@ div.ticker-sidebar-favs {height:382px;overflow-x:hidden;overflow-y:scroll;}
 /*ORDER BOOK*/
 .form-sidebar-wrap {margin-bottom:3px}
 #trading-widget-1>div>div{padding:0 !important}
-#bid-ask-tables{float:right;}
-#recent-trades{float:right;}
-#trading-widget-7>div>div{padding:0 !important}
+#trading-widget-1>div>div:nth-child(5){float:right;}
+#trading-widget-1>div>div:nth-child(5):nth-child(2){float:right;}
 .w100x{width:100% !important}
 .w067x{width:67% !important}
 .w033x{width:33% !important}
