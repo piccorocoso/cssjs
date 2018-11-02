@@ -81,6 +81,5 @@ div.colX{float:left;line-height: 30px}
 ,div.right-bar>div:nth-child(3)
 ,div.right-bar>div:nth-child(5)
 {display:none !important}*/
-body{background: RED !important}
 </style>`)
 //},1500);
