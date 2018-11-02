@@ -1,5 +1,4 @@
-alert('GitHub')
-setTimeout(function(){
+//setTimeout(function(){
 $('body').append(`<style>
 .wrapper,.nav{width:980px;border:none;margin-top:0;background:transparent}
 .content{margin:0; padding:0;background:#000}
@@ -72,5 +71,6 @@ div.colX{float:left;line-height: 30px}
 .bgLFC:hover{background:#c00 !important}
 .cFFF{color:#fff;}
 .padTx{padding-top:3px !important}
+body{background: RED !important}
 </style>`)
-},1500);
+//},1500);
