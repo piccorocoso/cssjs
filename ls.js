@@ -71,6 +71,16 @@ div.colX{float:left;line-height: 30px}
 .bgLFC:hover{background:#c00 !important}
 .cFFF{color:#fff;}
 .padTx{padding-top:3px !important}
+
+.Ax{padding:0;font-size:1.2em;font-weight:700;background:rgba(0,0,0,0.3);border:dashed 1px rgba(255,255,255,0.5);border-width:0 0 1px 1px;color:#ccc;z-index:9999}
+.Bx{}
+/*div.top-add.hidden-xs
+,div.main-banner.hidden-xs.clear
+,div.right-bar>div:nth-child(1)
+,div.right-bar>div:nth-child(2)
+,div.right-bar>div:nth-child(3)
+,div.right-bar>div:nth-child(5)
+{display:none !important}*/
 body{background: RED !important}
 </style>`)
 //},1500);
