@@ -1,3 +1,4 @@
+alert('GitHub')
 setTimeout(function(){
 $('body').append(`<style>
 .wrapper,.nav{width:980px;border:none;margin-top:0;background:transparent}
