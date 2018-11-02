@@ -1,3 +1,4 @@
+setTimeout(function(){
 $('body').append(`<style>
 .wrapper,.nav{width:980px;border:none;margin-top:0;background:transparent}
 .content{margin:0; padding:0;background:#000}
@@ -71,3 +72,4 @@ div.colX{float:left;line-height: 30px}
 .cFFF{color:#fff;}
 .padTx{padding-top:3px !important}
 </style>`)
+},1500);
