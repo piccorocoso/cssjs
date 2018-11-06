@@ -86,6 +86,7 @@ fullNames={
 	,"Advanced Inte...":"Advanced Internet Blocks"
 	,"Dynamic Tradi...":"Dynamic Trading Rights",
 
+	//ยังไม่เช็คความถูกต้องของชื่อ
 	"Paxos Standar...":"Paxos Standard Token",
 	"Red Pulse Pho...":"Red Pulse Phoenix",
 	"Quanta Utilit...":"Quanta Utility Token",
