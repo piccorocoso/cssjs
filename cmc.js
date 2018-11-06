@@ -87,6 +87,17 @@ fullNames={
 	,"Dynamic Tradi...":"Dynamic Trading Rights",
 
 	//ยังไม่เช็คความถูกต้องของชื่อ
+	//Coin
+	"Bitcoin Incog...":"Bitcoin Incognito"],
+	"Local World F...":"Local World Forwarders"],
+	"Advanced Tech...":"Arcticcoin"],
+	"Newton Coin P...":"Newton Coin Project"],
+	"Bitcoin W Spe...":"Bitcoin W Spectrum"],
+	"Help The Home...":"Help The Homeless Coin"],
+	"Moving Cloud ...":"Moving Cloud Coin"],
+	"CommunityGene...":"Communitygeneration"],
+	"Crypto Improv...":"Crypto Improvement Fund"]
+	//Tokens
 	"Paxos Standar...":"Paxos Standard Token",
 	"Red Pulse Pho...":"Red Pulse Phoenix",
 	"Quanta Utilit...":"Quanta Utility Token",
@@ -139,3 +150,4 @@ fullNames={
 	//,"EncryptoTel [...":"EncryptoTel [ETH]"				<---//แก้แบบ manual
 	//,"EncryptoTel [...":"EncryptoTel [WAVES]"
 }
+
