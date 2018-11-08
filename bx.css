@@ -14,7 +14,7 @@ border:10px solid orange;}
 /* STATIC MENU */
 #fixedTL{
   position:fixed;
-  right:290px;top:0px;
+  left:0;top:0px;
   font-size:0.9em;line-height:1.2;
   color:#fff;
   background:rgba(0,0,0, 0.85);
