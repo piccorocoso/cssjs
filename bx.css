@@ -12,7 +12,7 @@ body{overflow-x:hidden;padding-bottom:0}
 #notealert{position:fixed;top:0;right:0;z-index:99999;background:#0d3474;
 border:10px solid orange;}
 /* STATIC MENU */
-#fixedTC{
+#fixedTL{
   position:fixed;
   right:290px;top:0px;
   font-size:0.9em;line-height:1.2;
@@ -66,10 +66,10 @@ border:10px solid orange;}
   font-size:1em;/*font-weight:900;*/
   cursor:default;
   position:fixed;
-  right:-160px;
-  top:80px;
+  right:-150px;
+  top:150px;
   width:158px;
-  background:hsla(180,90%,40%,0.7);
+  background:hsla(80,90%,40%,0.7);
   color:white;
   padding:4px 15px;
   z-index:999999;}
