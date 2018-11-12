@@ -50,5 +50,4 @@ Z={
 }
 
 var base='http://www.thinkingradio.net/program/'
-alert()
 
