@@ -84,19 +84,19 @@ fullNames={
 	,"Digital Bulli...":"Digital Bullion Gold"
 	,"Happy Creator...":"Happy Creator Coin"
 	,"Advanced Inte...":"Advanced Internet Blocks"
-	,"Dynamic Tradi...":"Dynamic Trading Rights",
+	,"Dynamic Tradi...":"Dynamic Trading Rights"
 
 	//ยังไม่เช็คความถูกต้องของชื่อ
 	//Coin
-	"Bitcoin Incog...":"Bitcoin Incognito"],
-	"Local World F...":"Local World Forwarders"],
-	"Advanced Tech...":"Arcticcoin"],
-	"Newton Coin P...":"Newton Coin Project"],
-	"Bitcoin W Spe...":"Bitcoin W Spectrum"],
-	"Help The Home...":"Help The Homeless Coin"],
-	"Moving Cloud ...":"Moving Cloud Coin"],
-	"CommunityGene...":"Communitygeneration"],
-	"Crypto Improv...":"Crypto Improvement Fund"]
+	,"Bitcoin Incog...":"Bitcoin Incognito",
+	"Local World F...":"Local World Forwarders",
+	"Advanced Tech...":"Arcticcoin",
+	"Newton Coin P...":"Newton Coin Project",
+	"Bitcoin W Spe...":"Bitcoin W Spectrum",
+	"Help The Home...":"Help The Homeless Coin",
+	"Moving Cloud ...":"Moving Cloud Coin",
+	"CommunityGene...":"Communitygeneration",
+	"Crypto Improv...":"Crypto Improvement Fund",
 	//Tokens
 	"Paxos Standar...":"Paxos Standard Token",
 	"Red Pulse Pho...":"Red Pulse Phoenix",
