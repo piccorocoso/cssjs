@@ -73,4 +73,4 @@ div.colX{float:left;line-height: 30px}
 .Bx{}
 
 /*bottom fix ads*/
-#DfaVisibilityIdentifier_48302516 > ins, .banner-footer{display:none}
+#DfaVisibilityIdentifier_48302516 > ins, .banner-footer{display:none !important}
