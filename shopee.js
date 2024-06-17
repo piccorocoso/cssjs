@@ -1,5 +1,5 @@
 const ths=' (th)';
-q={'39925189':'BBS_Shop'+ths,'87124376':'Technic'+ths,'57748591':'PADPAD'+ths,'75734101':'Plus-elec'+ths,'594259220':'NT_SOUND'+ths,'232977921':'Rungrueng'+ths,'98860810':'S.G '+ths,'142008414':'skybox'+ths,'59899598':'ICE'+ths,'82250234':'SV'+ths,'49672794':'Micro.C'+ths,
+let q={'39925189':'BBS_Shop'+ths,'87124376':'Technic'+ths,'57748591':'PADPAD'+ths,'75734101':'Plus-elec'+ths,'594259220':'NT_SOUND'+ths,'232977921':'Rungrueng'+ths,'98860810':'S.G '+ths,'142008414':'skybox'+ths,'59899598':'ICE'+ths,'82250234':'SV'+ths,'49672794':'Micro.C'+ths,
 '92699435':'ดำรง'+ths,'996599594':'บ้านหม้อ'+ths,
 /*
 '':'',
